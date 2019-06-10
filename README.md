@@ -10,3 +10,5 @@ Based on David Huffman's original Minimal-Redundancy Codes algorithm, one of the
 
 ### Paper
 For details see the original publication http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf
+
+On Wikipedia: https://en.wikipedia.org/wiki/Huffman_coding
