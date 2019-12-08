@@ -1,6 +1,5 @@
 # HuffmanEncoder
 
-### Category: Programming Abstractions
 ### Team Members: 
 - Pablo Rodriguez Bertorello, Computer Science, Stanford University 
 
